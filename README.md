@@ -18,7 +18,7 @@ My name is Luiz Fernando, I'm a full-stack web developer.
 
 [![Luiz Fernando's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizf-lf&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## How to reach me
+## ✉ Contact Me
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-282A36?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/luizf-lf/)
 [![Discord Badge](https://img.shields.io/badge/-Discord-282A36?logo=discord&style=flat-square)](https://discordapp.com/users/553069343160664105)
 [![Skype Badge](https://img.shields.io/badge/-Skype-282A36?logo=skype&style=flat-square)](https://join.skype.com/invite/sovOLN4kgQSC)
