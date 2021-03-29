@@ -15,7 +15,7 @@ My name is Luiz Fernando, I'm a full-stack web developer.
 
 ## 🌟 GitHub Stats
 
-[![Luiz Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizf-lf&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Luiz Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizf-lf&count_private=true&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Luiz Fernando's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizf-lf&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
