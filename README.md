@@ -24,7 +24,7 @@ Besides programing, I like to play Racing, Puzzle, RPG and Open World games.
 
 [![Luiz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizf-lf&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Luiz's Activity](https://github-readme-stats.vercel.app/api/wakatime?username=luizf_lf)](https://wakatime.com/@luizf_lf)
+[![Luiz's Activity](https://github-readme-stats.vercel.app/api/wakatime?username=luizf_lf&layout=compact&theme=dracula&langs_count=5)](https://wakatime.com/@luizf_lf)
 
 ## ✉ Contact
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-282A36?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/luizf-lf/)
