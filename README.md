@@ -1,5 +1,9 @@
 # 💭 About Me:
-Full stack /Fluig developer from Brazil.<br>I always love to learn and try something new.<br>Besides programing, I like to play Racing, Puzzle, RPG and Open World games.
+Full stack / Fluig developer from Brazil.
+
+I always love to learn and try something new.
+
+Besides programing, I like to play Racing, Puzzle, RPG and Open World games.
 
 
 ## 🌐 Socials:
