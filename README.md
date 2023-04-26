@@ -1,5 +1,5 @@
 # 💭 About Me:
-Full stack / Fluig developer from Brazil.
+Full stack / Fluig developer from Brazil 🇧🇷
 
 I always love to learn and try something new.
 
