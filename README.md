@@ -1,17 +1,87 @@
-# 💭 About Me:
-Full stack / Fluig developer from Brazil 🇧🇷
+<h1 align="left">💭 About Me</h1>
 
-I always love to learn and try something new.
+###
 
-Besides programing, I like to play Racing, Puzzle, RPG and Open World games.
+<p align="left">Full stack / Fluig developer from Brazil 🇧🇷<br><br>I always love to learn and try something new.<br><br>Besides programing, I like to play Racing, Puzzle, RPG and Open World games.</p>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luizf-lf) 
+<h1 align="left">🌐 Socials</h1>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=luizf-lf&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=luizf-lf&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luizf-lf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/luizf-lf/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h1 align="left">💻 Tech Stack</h1>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="26" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="26" alt="typescript logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="26" alt="react logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="26" alt="bootstrap logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="26" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="26" alt="jest logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="26" alt="angularjs logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge" height="26" alt="electron logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="26" alt="azure logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="26" alt="docker logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="26" alt="blender logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="26" alt="figma logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="26" alt="nodejs logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="26" alt="express logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" height="26" alt="webpack logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="26" alt="python logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="26" alt="firebase logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="26" alt="mongodb logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="26" alt="microsoftsqlserver logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="26" alt="mysql logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="26" alt="sqlite logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="26" alt="npm logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" height="26" alt="yarn logo"  />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="26" alt="jira logo"  />
+</div>
+
+###
+
+<h1 align="left">📊 GitHub Stats:</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luizf-lf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=luizf-lf&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizf-lf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
