@@ -1,24 +1,12 @@
-<h1 align="left">💭 About Me</h1>
+<h2 align="left">💭 About Me</h2>
 
 ###
 
-<p align="left">Full stack / Fluig developer from Brazil 🇧🇷<br><br>I always love to learn and try something new.<br><br>Besides programing, I like to play Racing, Puzzle, RPG and Open World games.</p>
+<p align="left">Full stack JavaScript / TypeScript developer. Fluig platform specialist.</p>
 
 ###
 
-<h1 align="left">🌐 Socials</h1>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/luizf-lf/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="left">💻 Tech Stack</h1>
+<h2 align="left">💻 Tech Stack</h2>
 
 ###
 
@@ -74,13 +62,13 @@
 
 ###
 
-<h1 align="left">📊 GitHub Stats:</h1>
+<h2 align="left">📊 GitHub Stats:</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luizf-lf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=luizf-lf&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=luizf-lf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=luizf-lf&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="200" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizf-lf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
