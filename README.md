@@ -5,11 +5,9 @@
 <p align="left">  
   I'm a full stack developer with extensive knowledge of JavaScript, Node.js, React.js and TypeScript, with an emphasis on developing business processes and Maven based modules for the TOTVS Fluig platform. 
   
-  My professional journey is driven by the constant search for innovation and technical excellence. Over the years, I have developed robust and efficient solutions, standing out in the web and mobile development scenario. My skills cover the complete development cycle, from conception to implementation, ensuring exceptional results.
-  
   In addition to my core focus on JavaScript and its ecosystem, I have expertise in Git, SQL Server, Java, Python and AdvPL, expanding my skillset to offer comprehensive and effective solutions.
   
-  Throughout my career, I have gained a solid foundation and honed my ability to translate complex challenges into simple, intuitive solutions. 
+  My skills cover the complete development cycle, from conception with tools such as Figma to implementation on cloud based platforms such as Azure.
   
   My goal is to continue growing as a professional and add value to dynamic teams in challenging environments.
 </p>
